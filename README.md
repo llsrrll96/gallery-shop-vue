@@ -33,6 +33,6 @@ Java 17<br>
 
 <br>
 
-구현 과정을 [기술블로그](https://javapp.tistory.com/category/Dev/Vue) 에 정리했습니다.
+구현 과정을 [기술블로그](https://javapp.tistory.com/category/Front-end/Vue) 에 정리했습니다.
 
 
